@@ -11,10 +11,16 @@ namespace Room_Calculator_App
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Room Calculator App");
+            Console.WriteLine("Please enter room Width");
+            string userInputWidth = Console.ReadLine();
+            int width = int.Parse(userInputWidth);
 
+            Console.WriteLine("Please enter room Length");
+            string userInputLength = Console.ReadLine(); ;
+            int length = int.Parse(userInputLength);
             ACalu();
 
-            int result = PCalu(10,8);
+            int result = PCalu(width, length);
             Console.WriteLine($"The Perimetrer of the room is {result}");
             Console.ReadLine();
         }
