@@ -1,0 +1,7 @@
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\bin\Debug\Room_Calculator_App.exe.config
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\bin\Debug\Room_Calculator_App.exe
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\bin\Debug\Room_Calculator_App.pdb
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\obj\Debug\Room_Calculator_App.csprojAssemblyReference.cache
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\obj\Debug\Room_Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\obj\Debug\Room_Calculator_App.exe
+C:\Users\rnovak1\source\repos\Room_Calculator_App\Room_Calculator_App\obj\Debug\Room_Calculator_App.pdb
